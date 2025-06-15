@@ -1,2 +1,2 @@
-# repositorio para practicar git-pull
+# repositorio para practicar git-pull 10:32am
 Usar el git pull
